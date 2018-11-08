@@ -215,5 +215,4 @@
              ELSE DISPLAY 'ERROR'                                         
              END-IF.                                                      
              STOP RUN.                                                    
-         END PROGRAM TRAIN.                                               
-                                                                                                     
+         END PROGRAM TRAIN.                                                                                                                                                
